@@ -1,0 +1,6 @@
+{
+  "name": "Nuzhat Portfolio",
+  "description": "Award-winning 2.5D interactive portfolio website for Nuzhat, a premium Full Stack Web Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
